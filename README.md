@@ -1,3 +1,6 @@
+# Try it!
+You can try the generator [HERE!](http://andreaswebdev.github.io/Metal-Band-Name-Generator/)
+
 # What is Metal Band Name Generator?
 Metal Band Name Generator (short: MBNG) is a small tool I wrote within 2 school hours (90 minutes) because I was bored and needed something to work on.
 While all my class mates learned stuff about CSS font-family I remembered the discussion we had in the break. We asked ourself, why all the metal bands use
