@@ -6,7 +6,13 @@ $(document).ready(function() {
                  "Death", "Horizon", "Valley", "Talent", "Ultimate", "Pussy", "Steal",
                  "Hurt", "Smash", "Mosh", "Pit", "Park", "Link", "True", "Metal", "Demon",
                  "Whore", "Rider", "Blood", "Burn", "Shipwreck", "Lost", "Soul", "Devil",
-                 "Black", "Zombie", "Apocalypse", "Apocalyptic", "Warrior", "Force"];
+                 "Black", "Zombie", "Apocalypse", "Apocalyptic", "Warrior", "Force",
+                 "Ripper", "Storm", "Steel", "Knight", "Moon", "Enemy", "Wild", "Free", "Rebel",
+                 "Wind", "Hell", "Fight", "Night", "Last", "Man", "Monster", "Pity", "Poison",
+                 "Theatre", "Chemical", "Toxic", "Acid", "Rain", "Heavy", "Panic", "Savior",
+                 "Lights", "Broken", "Torture", "Misery", "Waste", "Grave", "Hater", "War",
+                 "Hordes", "Underworld", "Adrenaline", "State", "Madness", "Crown", "Dangerouse",
+                 "Kings", "Reincarnation"];
 	var connectors = ["of", "in", "to", "by", "with", "around", "from", "till", "through"];
 	var doubleconnectors = ["", " the"];
 	
