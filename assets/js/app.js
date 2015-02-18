@@ -1,5 +1,12 @@
 $(document).ready(function() {
-	var names = ["Mood", "Christian", "Jew", "Dude", "Dead", "Bitch", "Bang", "Anthem", "Anvil", "Rock", "Accept", "Angel", "Illuminaty", "Satan", "Demonic", "Reaper", "Undead", "Dragon", "Slave", "Slayer", "Desolate", "Medieval", "Sword", "Spell", "Holy", "Heaven", "God", "Mighty", "Squad", "Grale", "Death", "Horizon", "Valley", "Talent", "Ultimate", "Pussy", "Steal", "Hurt", "Smash", "Mosh", "Pit", "Park", "Link"];
+	var names = ["Mood", "Christian", "Jew", "Dude", "Dead", "Bitch", "Bang", "Anthem",
+                 "Anvil", "Rock", "Accept", "Angel", "Illuminaty", "Satan", "Demonic",
+                 "Reaper", "Undead", "Dragon", "Slave", "Slayer", "Desolate", "Medieval",
+                 "Sword", "Spell", "Holy", "Heaven", "God", "Mighty", "Squad", "Grale",
+                 "Death", "Horizon", "Valley", "Talent", "Ultimate", "Pussy", "Steal",
+                 "Hurt", "Smash", "Mosh", "Pit", "Park", "Link", "True", "Metal", "Demon",
+                 "Whore", "Rider", "Blood", "Burn", "Shipwreck", "Lost", "Soul", "Devil",
+                 "Black", "Zombie", "Apocalypse", "Apocalyptic", "Warrior", "Force"];
 	var connectors = ["of", "in", "to", "by", "with", "around", "from", "till", "through"];
 	var doubleconnectors = ["", " the"];
 	
